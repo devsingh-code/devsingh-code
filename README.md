@@ -8,7 +8,7 @@
 </p>
 
 
-👨‍🎓 Currently, I am working in Infosys Ltd. as a Tahcnology Analyst. I am responsible for developing scalable, clean and reusable Python codes for the projects I am working on. In addition to that, I have 2.5 yrs experience in working with Django and Django REST Framework.
+👨‍🎓 Currently, I am working in Infosys Ltd. as a Technology Analyst. I am responsible for developing scalable, clean and reusable Python codes for the projects I am working on. In addition to that, I have 2.5 yrs experience in working with Django and Django REST Framework.
 I have also integrated Django with Frontedn technologies including Javacript, React, BootStrap4, HTML & CSS
 
 
