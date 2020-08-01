@@ -9,7 +9,7 @@
 
 
 👨‍🎓 Currently, I am working in Infosys Ltd. as a Technology Analyst. I am responsible for developing scalable, clean and reusable Python codes for the projects I am working on. In addition to that, I have 2.5 yrs experience in working with Django and Django REST Framework.
-I have also integrated Django with Frontedn technologies including Javacript, React, BootStrap4, HTML & CSS
+I have also integrated Django with Front-end technologies including Javacript, React, BootStrap4, HTML & CSS
 
 
 
@@ -51,17 +51,4 @@ I have also integrated Django with Frontedn technologies including Javacript, Re
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devsingh-code&show_icons=true&hide_border=false&theme=dracula&hide=contribs,issues,prs" />
 
-<!--t
-**Storiesbyharshit/Storiesbyharshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
