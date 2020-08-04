@@ -49,6 +49,6 @@ I have also integrated Django with Front-end technologies including Javacript, R
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devsingh-code&show_icons=true&hide_border=false&theme=dracula&hide=contribs,issues,prs" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devsingh-code&show_icons=true&hide_border=false&theme=tokyonight&hide=contribs,issues,prs" />
 
 
