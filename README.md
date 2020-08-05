@@ -26,8 +26,9 @@ I have also integrated Django with Front-end technologies including Javacript, R
  
  
  
-- 🔭 I’m currently working on a few personal projects which I frequently update over my github profile.
-- 📫 E-Mail: deovrat.singh619@hotmail.com
+- I’m currently working on a few personal projects which I frequently update over my github profile.
+- E-Mail: deovrat.singh619@hotmail.com
+- Portfolio: https://devsingh-code.github.io/
 
 ### Languages and Tools:
 
