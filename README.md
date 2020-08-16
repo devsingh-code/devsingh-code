@@ -12,17 +12,13 @@
 I have also integrated Django with Front-end technologies including Javacript, React, BootStrap4, HTML & CSS
 
 
+[<img align="left" alt="storiesbyharshit@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />](mailto:deovrat.singh619@hotmail.com)
+[<img align="left" alt="myport" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://devsingh-code.github.io/)
 
+[<img align="left" alt="sh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/deovrat-singh-8abb69102/)
+[<img align="left" alt="techmirtz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/traveller_with_canon)
 
->  [ **Connect with me on LinkedIn**](https://www.linkedin.com/in/deovrat-singh-8abb69102/)
- 
- 
- 
- 
-
- I am also a Travel & Potrait Photographer ✨
- 
- >  [ **Connect with me on Instagram**](https://www.instagram.com/traveller_with_canon/)
+<br>
  
  
  
