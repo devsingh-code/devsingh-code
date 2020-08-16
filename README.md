@@ -12,6 +12,17 @@
 I have also integrated Django with Front-end technologies including Javacript, React, BootStrap4, HTML & CSS
 
 
+
+ 
+ 
+ 
+- I’m currently working on a few personal projects which I frequently update over my github profile.
+- E-Mail: deovrat.singh619@hotmail.com
+- Portfolio: > [ **My Portfolio Website**](https://devsingh-code.github.io/)
+
+
+### 📫 Connect with me:
+
 [<img align="left" alt="storiesbyharshit@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />](mailto:deovrat.singh619@hotmail.com)
 [<img align="left" alt="myport" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://devsingh-code.github.io/)
 
@@ -19,12 +30,7 @@ I have also integrated Django with Front-end technologies including Javacript, R
 [<img align="left" alt="techmirtz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/traveller_with_canon)
 
 <br>
- 
- 
- 
-- I’m currently working on a few personal projects which I frequently update over my github profile.
-- E-Mail: deovrat.singh619@hotmail.com
-- Portfolio: https://devsingh-code.github.io/
+
 
 ### Languages and Tools:
 
