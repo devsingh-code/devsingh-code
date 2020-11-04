@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Deovrat!
 </p>
 <p align="center">
- <img alt="For-the-Badge-Python" src="https://media-exp1.licdn.com/dms/image/C5616AQG3e0dKqtw8yw/profile-displaybackgroundimage-shrink_350_1400/0?e=1601510400&v=beta&t=MCFG48U3sq6vK2S0lH-lsw5fSRFJGNNqmcVqFIq2KmU">
+ <img alt="For-the-Badge-Python" src="https://github.com/devsingh-code/devsingh-code/blob/master/DSC_1178.jpg">
 
   
  
