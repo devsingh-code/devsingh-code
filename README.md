@@ -25,11 +25,11 @@ Currently I am on my path to learn Data Science. Hopefully Google tensorflow cer
 
 ### 📫 Connect with me:
 
-[<img align="left" alt="storiesbyharshit@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />](mailto:deovrat.singh619@hotmail.com)
-[<img align="left" alt="myport" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://devsingh-code.github.io/)
+[<img align="left" alt="devsingh6n@gmail.com | Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/>](mailto:deovrat.singh619@hotmail.com)
+[<img align="left" alt="myport" width="22px" src="https://img.icons8.com/fluent/48/000000/new-contact.png" />](https://devsingh-code.github.io/)
 
-[<img align="left" alt="sh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/deovrat-singh-8abb69102/)
-[<img align="left" alt="techmirtz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/traveller_with_canon)
+[<img align="left" alt="sh | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/deovrat-singh-8abb69102/)
+[<img align="left" alt="techmirtz | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>](https://www.instagram.com/traveller_with_canon)
 
 <br>
 
