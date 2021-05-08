@@ -58,15 +58,9 @@ Currently I am on my path to learn Data Science. Hopefully Google tensorflow cer
 <br />
 <p>
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devsingh-code&show_icons=true&hide_border=false&theme=tokyonight&hide=contribs,issues,prs" />
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsingh-code&layout=compact" />
+<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsingh-code&layout=compact" />
 </p>
-<br/>
-<br/>
-<br/>
-<br/>
-<p align="left">
 
-</p>
 
 
 
