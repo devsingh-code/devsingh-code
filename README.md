@@ -8,8 +8,8 @@
 </p>
 
 
-👨‍🎓 Currently, I am working in Infosys Ltd. as a Technology Analyst. I am responsible for developing scalable, clean and reusable Python codes for the projects I am working on. In addition to that, I have 2.5 yrs experience in working with Django and Django REST Framework.
-I have also integrated Django with Front-end technologies including Javacript, React, BootStrap4, HTML & CSS.
+👨‍🎓 Currently, I am working in Infosys Ltd. as a Senior Associate Consultant in Data Domain. I am responsible for developing scalable, clean and reusable Python codes for the projects I am working on.I recently switched to Data Science and Analytics stream 1.5 yrs back.
+I have also integrated Django with Front-end technologies including Javacript, BootStrap4, HTML & CSS.
 Currently I am on my path to learn Data Science. Hopefully Google tensorflow certified developer in some time. 
 
 
@@ -37,13 +37,18 @@ Currently I am on my path to learn Data Science. Hopefully Google tensorflow cer
 ### Languages and Tools:
 
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
+<img align="left" alt="Python" width="26px" src="https://miro.medium.com/max/289/1*KrA4Z-LEzIxvgeqQnD_1lA.png" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+<img align="left" alt="Python" width="26px" src="https://seabornnetworks.com/2020/wp-content/uploads/2017/05/seaborn.jpg" />
+
+<img align="left" alt="Python" width="26px" src="https://www.janmeppe.com/assets/2019-12-24-matplotlib/matplotlib.jpg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
+
 
 
 
