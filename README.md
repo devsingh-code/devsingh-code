@@ -1,11 +1,6 @@
 ## Hi there 👋 I am Deovrat!
 </p>
-<p align="center">
- <img alt="For-the-Badge-Python" src="https://github.com/devsingh-code/devsingh-code/blob/master/DSC_1178.jpg">
 
-  
- 
-</p>
 
 
 👨‍🎓 Currently, I am working in Infosys Ltd. as a Senior Associate Consultant in Data Domain. I am responsible for developing scalable, clean and reusable Python codes for the projects I am working on.I recently switched to Data Science and Analytics stream 1.5 yrs back.
