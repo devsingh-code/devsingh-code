@@ -15,7 +15,7 @@ Currently I am on my path to learn Data Science. Hopefully Google tensorflow cer
  
 - I’m currently working on a few personal projects which I frequently update over my github profile.
 - E-Mail: deovrat.singh619@hotmail.com
-- Portfolio: > [ **My Portfolio Website**](https://devsingh-code.github.io/)
+
 
 
 ### 📫 Connect with me:
