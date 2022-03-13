@@ -3,7 +3,7 @@
 
 
 
-👨‍🎓 Currently, I am working in Infosys Ltd. as a Data Analyst/Consultant in Retail Equipment Industry Domain. I am responsible for analyzing the client's data and give them inputs on improving their delivery or to find the loss factors.I recently switched to Data Science and Analytics stream 1.5 yrs back.
+👨‍🎓 Currently, I am working in Infosys Ltd. as a Data Analyst/Consultant in Retail Equipment Industry Domain. I am responsible for analyzing the client's data and give them inputs on improving their delivery or to find the loss factors.I recently switched to Data Science and Analytics stream 3 yrs back.
 I have also integrated Django with Front-end technologies including Javacript, BootStrap4, HTML & CSS.
 Currently I am on my path to learn Data Science. Hopefully Google tensorflow certified developer in some time. 
 
