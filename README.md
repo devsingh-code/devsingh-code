@@ -36,12 +36,6 @@ Currently I am on my path to learn Data Science. Hopefully Google tensorflow cer
 
 <img align="left" alt="Power BI" width="26px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
-<img align="left" alt="Python" width="26px" src="https://miro.medium.com/max/289/1*KrA4Z-LEzIxvgeqQnD_1lA.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
-<img align="left" alt="Python" width="26px" src="https://seabornnetworks.com/2020/wp-content/uploads/2017/05/seaborn.jpg" />
-
-<img align="left" alt="Python" width="26px" src="https://www.janmeppe.com/assets/2019-12-24-matplotlib/matplotlib.jpg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
