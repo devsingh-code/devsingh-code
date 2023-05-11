@@ -3,9 +3,8 @@
 
 
 
-👨‍🎓 Currently, I am working in Infosys Ltd. as a Data Analyst/Consultant in Retail Equipment Industry Domain. I am responsible for analyzing the client's data and give them inputs on improving their delivery or to find the loss factors.I recently switched to Data Science and Analytics stream 3 yrs back.
-I have also integrated Django with Front-end technologies including Javacript, BootStrap4, HTML & CSS.
-Currently I am on my path to learn Data Science. Hopefully Google tensorflow certified developer in some time. 
+👨‍🎓 Currently, I am working in Speridian Technologies. as a Senior Systems Analyst/Consultant in Oracle CX domain. I am responsible for gettign requirements and implementing projects for Oracle CX Clouds which includes integration with externally developed plugins which requires my expertise on Fron-End Development.Front-end technologies including Modern Javacript(ES6), BootStrap4, HTML & CSS.
+Currently I am on my path to become Meta Certified Front End Developer.
 
 
 
