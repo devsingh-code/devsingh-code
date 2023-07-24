@@ -3,8 +3,8 @@
 
 
 
-👨‍🎓 Currently, I am working at Speridian Technologies as a Senior Systems analyst and consultant in the Oracle CX domain. I am responsible for getting requirements and implementing projects for Oracle CX Clouds, which include integration with externally developed plugins, which requires my expertise in front-End Development.Front-end technologies which includes Oracle JET Platform, Modern Javacript(ES6), BootStrap4, HTML & CSS.
-Currently I am on my path to become Meta Certified Front End Developer.
+👨‍🎓 Currently, I am working at Speridian Technologies as a Senior Systems analyst and consultant in the Oracle CX domain. I am responsible for getting requirements and implementing projects for Oracle CX Clouds, which include integration with externally developed plugins, which requires my expertise in Front-End Development. Front-end technologies, which include Oracle JET Platform, Modern Javacript (ES6), BootStrap 4, HTML, and CSS.
+Currently, I am on my path to becoming a Meta Certified Front End Developer.
 
 
 
@@ -12,7 +12,7 @@ Currently I am on my path to become Meta Certified Front End Developer.
  
  
  
-- I’m currently working on a few personal projects which I frequently update over my github profile.
+- I’m currently working on a few personal projects, which I frequently update on my GitHub profile.
 - E-Mail: deovrat.singh619@hotmail.com
 
 
