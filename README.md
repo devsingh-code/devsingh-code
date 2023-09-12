@@ -3,7 +3,7 @@
 
 
 
-👨‍🎓 Currently, I am working at Speridian Technologies as a Senior Systems analyst and consultant in the Oracle CX domain. I am responsible for getting requirements and implementing projects for Oracle CX Clouds, which include integration with externally developed plugins, which requires my expertise in Front-End Development. Front-end technologies, which include Oracle JET Platform, Modern Javacript (ES6), BootStrap 4, HTML, and CSS.
+👨‍🎓 Currently, I am working at PWC:Acceleration Center India as a Senior Associate and Consultant in the Oracle CX domain. I am responsible for getting requirements and implementing projects for Oracle CX Clouds, which include integration with externally developed plugins, which requires my expertise in Front-End Development. Front-end technologies, which include Oracle JET Platform, Modern Javacript (ES6), BootStrap 4, HTML, and CSS.
 Currently, I am on my path to becoming a Meta Certified Front End Developer.
 
 
